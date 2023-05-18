@@ -215,4 +215,7 @@ body {
   justify-content: center;
   padding: 1rem 20px;
   margin-top: 20px;
+  font-size: 0.81rem;
+  font-weight: 600;
+  color: #000000c0;
 }
